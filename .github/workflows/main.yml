@@ -1,1 +1,3 @@
 name: main branch
+
+on: [workflow_dispatch]
